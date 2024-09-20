@@ -10,6 +10,9 @@ package spc;
  */
 public class Bai2_Tinhtong {
     public static void main(String[] args) {
-        System.out.println("Chương trình tính tổng 2 số");
+        System.out.println("Chương trình tính tổng 2 số nguyên");
+        int a=8, b=5;
+        int tong = a+b;
+        System.out.println(a + " + " + b + " = " + tong);
     }
 }
